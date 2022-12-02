@@ -1,0 +1,21 @@
+{
+    "name": "mansuit-infection",
+    "version": "1.0.0",
+    "description": "ManSuit, an infection crypto game",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+      "@nomiclabs/hardhat-ethers": "^2.1.1",
+      "chai": "^4.3.6",
+      "ethers": "^5.6.9",
+      "hardhat": "^2.10.2"
+    },
+    "dependencies": {
+      "hardhat-contract-sizer": "^2.6.1"
+    }
+  }
